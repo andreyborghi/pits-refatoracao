@@ -1,0 +1,75 @@
+[OK] LEGADO T01 aluno com acesso válido
+[OK] LEGADO T02 credencial desconhecida
+[OK] LEGADO T03 credencial nula
+[OK] LEGADO T04 credencial vazia
+[OK] LEGADO T05 credencial com espaços
+[OK] LEGADO T06 usuário inativo
+[OK] LEGADO T07 usuário ausente
+[OK] LEGADO T08 credencial expirada
+[OK] LEGADO T09 instante exato da expiração
+[OK] LEGADO T10 credencial sem vencimento
+[OK] LEGADO T11 ambiente inativo
+[OK] LEGADO T12 ambiente inexistente
+[OK] LEGADO T13 ambiente nulo
+[OK] LEGADO T14 evento desconhecido
+[OK] LEGADO T15 evento nulo
+[OK] LEGADO T16 evento em letras minúsculas
+[OK] LEGADO T17 aluno antes de 06h
+[OK] LEGADO T18 limite 06h inclusive
+[OK] LEGADO T19 imediatamente após 06h
+[OK] LEGADO T20 imediatamente antes de 23h
+[OK] LEGADO T21 limite 23h inclusive
+[OK] LEGADO T22 imediatamente após 23h
+[OK] LEGADO T23 professor fora do horário de aluno
+[OK] LEGADO T24 operador fora do horário de aluno
+[OK] LEGADO T25 credencial prevalece sobre demais falhas
+[OK] LEGADO T26 usuário inativo prevalece sobre expiração
+[OK] LEGADO T27 expiração prevalece sobre ambiente e evento
+[OK] LEGADO T28 ambiente prevalece sobre evento e horário
+[OK] LEGADO T29 evento prevalece sobre horário
+[OK] LEGADO T30 status nulo de usuário
+[OK] LEGADO T31 status nulo de ambiente
+[OK] LEGADO T32 tipo ENTRADA_CAMPUS reconhecido
+[OK] LEGADO T33 tipo SAIDA_CAMPUS reconhecido
+[OK] LEGADO T34 tipo SAIDA_SALA reconhecido
+[OK] LEGADO T35 código de credencial diferencia maiúsculas
+[OK] LEGADO T36 todos os dados de entrada nulos
+LEGADO: 36/36 testes aprovados.
+[OK] REFATORADO T01 aluno com acesso válido
+[OK] REFATORADO T02 credencial desconhecida
+[OK] REFATORADO T03 credencial nula
+[OK] REFATORADO T04 credencial vazia
+[OK] REFATORADO T05 credencial com espaços
+[OK] REFATORADO T06 usuário inativo
+[OK] REFATORADO T07 usuário ausente
+[OK] REFATORADO T08 credencial expirada
+[OK] REFATORADO T09 instante exato da expiração
+[OK] REFATORADO T10 credencial sem vencimento
+[OK] REFATORADO T11 ambiente inativo
+[OK] REFATORADO T12 ambiente inexistente
+[OK] REFATORADO T13 ambiente nulo
+[OK] REFATORADO T14 evento desconhecido
+[OK] REFATORADO T15 evento nulo
+[OK] REFATORADO T16 evento em letras minúsculas
+[OK] REFATORADO T17 aluno antes de 06h
+[OK] REFATORADO T18 limite 06h inclusive
+[OK] REFATORADO T19 imediatamente após 06h
+[OK] REFATORADO T20 imediatamente antes de 23h
+[OK] REFATORADO T21 limite 23h inclusive
+[OK] REFATORADO T22 imediatamente após 23h
+[OK] REFATORADO T23 professor fora do horário de aluno
+[OK] REFATORADO T24 operador fora do horário de aluno
+[OK] REFATORADO T25 credencial prevalece sobre demais falhas
+[OK] REFATORADO T26 usuário inativo prevalece sobre expiração
+[OK] REFATORADO T27 expiração prevalece sobre ambiente e evento
+[OK] REFATORADO T28 ambiente prevalece sobre evento e horário
+[OK] REFATORADO T29 evento prevalece sobre horário
+[OK] REFATORADO T30 status nulo de usuário
+[OK] REFATORADO T31 status nulo de ambiente
+[OK] REFATORADO T32 tipo ENTRADA_CAMPUS reconhecido
+[OK] REFATORADO T33 tipo SAIDA_CAMPUS reconhecido
+[OK] REFATORADO T34 tipo SAIDA_SALA reconhecido
+[OK] REFATORADO T35 código de credencial diferencia maiúsculas
+[OK] REFATORADO T36 todos os dados de entrada nulos
+REFATORADO: 36/36 testes aprovados.
+EQUIVALÊNCIA: 36/36 comparações de evento e auditoria aprovadas; 0 divergências.
